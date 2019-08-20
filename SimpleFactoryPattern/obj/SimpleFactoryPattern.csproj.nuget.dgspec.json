@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\SimpleFactoryPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj": {}
+    "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj": {}
   },
   "projects": {
-    "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\SimpleFactoryPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj": {
+    "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\SimpleFactoryPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
+        "projectUniqueName": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
         "projectName": "SimpleFactoryPattern",
-        "projectPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\SimpleFactoryPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
+        "projectPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
         "packagesPath": "C:\\Users\\laggage\\.nuget\\packages\\",
-        "outputPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\SimpleFactoryPattern\\SimpleFactoryPattern\\obj\\",
+        "outputPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\",
