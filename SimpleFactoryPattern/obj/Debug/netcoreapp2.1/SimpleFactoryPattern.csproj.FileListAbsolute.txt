@@ -1,0 +1,10 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.pdb
