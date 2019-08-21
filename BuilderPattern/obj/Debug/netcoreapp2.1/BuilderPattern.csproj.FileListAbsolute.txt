@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.pdb
