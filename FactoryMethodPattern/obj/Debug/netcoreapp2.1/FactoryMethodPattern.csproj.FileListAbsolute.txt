@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
