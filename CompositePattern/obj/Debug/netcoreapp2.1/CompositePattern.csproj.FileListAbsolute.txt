@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.pdb

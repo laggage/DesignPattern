@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypePattern", "Prototy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{B2D70D91-C344-4592-80D4-2A27BBDF1213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{1197076A-F7F2-4E9B-9908-7368DBA3EE6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{1197076A-F7F2-4E9B-9908-7368DBA3EE6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{9B80EB3B-3030-4648-9908-FFAF6EE3AA08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{9B80EB3B-3030-4648-9908-FFAF6EE3AA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{9DB0D458-68D9-4711-8FB7-EE922378C966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{DBACD14B-0EC2-49B4-AE18-324A3707CE5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{9B80EB3B-3030-4648-9908-FFAF6EE3AA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B80EB3B-3030-4648-9908-FFAF6EE3AA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B80EB3B-3030-4648-9908-FFAF6EE3AA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB0D458-68D9-4711-8FB7-EE922378C966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB0D458-68D9-4711-8FB7-EE922378C966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB0D458-68D9-4711-8FB7-EE922378C966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB0D458-68D9-4711-8FB7-EE922378C966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBACD14B-0EC2-49B4-AE18-324A3707CE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBACD14B-0EC2-49B4-AE18-324A3707CE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBACD14B-0EC2-49B4-AE18-324A3707CE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBACD14B-0EC2-49B4-AE18-324A3707CE5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

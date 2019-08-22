@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\bin\Debug\netcoreapp2.1\DecoratorPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\DecoratorPattern\obj\Debug\netcoreapp2.1\DecoratorPattern.pdb
