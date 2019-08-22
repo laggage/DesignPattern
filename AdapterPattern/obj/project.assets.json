@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj",
-      "projectName": "SingletonPattern",
-      "projectPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj",
+      "projectUniqueName": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\AdapterPattern\\AdapterPattern.csproj",
+      "projectName": "AdapterPattern",
+      "projectPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\AdapterPattern\\AdapterPattern.csproj",
       "packagesPath": "C:\\Users\\laggage\\.nuget\\packages\\",
-      "outputPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SingletonPattern\\obj\\",
+      "outputPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\AdapterPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\",

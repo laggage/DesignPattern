@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.csprojAssemblyReference.cache

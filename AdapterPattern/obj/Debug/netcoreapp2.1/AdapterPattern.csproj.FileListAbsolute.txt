@@ -1,0 +1,10 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.pdb
