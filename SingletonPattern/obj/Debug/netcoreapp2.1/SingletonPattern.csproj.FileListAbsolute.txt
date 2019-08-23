@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.pdb
