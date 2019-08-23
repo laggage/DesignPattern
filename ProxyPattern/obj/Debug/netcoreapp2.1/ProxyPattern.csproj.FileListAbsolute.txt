@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.pdb
