@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.pdb

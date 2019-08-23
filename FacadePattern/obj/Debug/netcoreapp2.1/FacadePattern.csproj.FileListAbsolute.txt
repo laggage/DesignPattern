@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.pdb

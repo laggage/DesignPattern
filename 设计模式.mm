@@ -77,8 +77,12 @@
 <node CREATED="1566449507266" ID="ID_803473190" MODIFIED="1566449519716" TEXT="&#x88c5;&#x9970;&#x6a21;&#x5f0f;(Decorator Pattern)">
 <node CREATED="1566497224699" ID="ID_1834536661" MODIFIED="1566497285033" TEXT="&#x52a8;&#x6001;&#x7684;&#x7ed9;&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#x589e;&#x52a0;&#x4e00;&#x4e9b;&#x989d;&#x5916;&#x7684;&#x804c;&#x8d23;. &#x5c31;&#x6269;&#x5c55;&#x529f;&#x80fd;&#x800c;&#x8a00;, &#x88c5;&#x9970;&#x6a21;&#x5f0f;&#x63d0;&#x4f9b;&#x4e86;&#x4e00;&#x79cd;&#x6bd4;&#x4f7f;&#x7528;&#x5b50;&#x7c7b;&#x66f4;&#x52a0;&#x7075;&#x6d3b;&#x7684;&#x66ff;&#x4ee3;&#x65b9;&#x6848;.(&#x56fe;&#x5f62;&#x754c;&#x9762;&#x5e93;&#x88c5;&#x9970;&#x57fa;&#x672c;&#x7684;&#x63a7;&#x4ef6;)"/>
 </node>
-<node CREATED="1566449520161" ID="ID_1098951055" MODIFIED="1566449530844" TEXT="&#x5916;&#x89c2;&#x6a21;&#x5f0f;(Facade Pattern)"/>
-<node CREATED="1566449531318" ID="ID_1640157072" MODIFIED="1566449547242" TEXT="&#x4eab;&#x5143;&#x6a21;&#x5f0f;(Flyweight Pattern)"/>
+<node CREATED="1566449520161" ID="ID_1098951055" MODIFIED="1566449530844" TEXT="&#x5916;&#x89c2;&#x6a21;&#x5f0f;(Facade Pattern)">
+<node CREATED="1566543079774" ID="ID_491607775" MODIFIED="1566543080581" TEXT="&#x4e3a;&#x5b50;&#x7cfb;&#x7edf;&#x4e2d;&#x7684;&#x4e00;&#x7ec4;&#x63a5;&#x53e3;&#x63d0;&#x4f9b;&#x7edf;&#x4e00;&#x7684;&#x5165;&#x53e3;. &#x5916;&#x89c2;&#x6a21;&#x5f0f;&#x5b9a;&#x4e49;&#x4e86;&#x4e00;&#x4e2a;&#x9ad8;&#x5c42;&#x63a5;&#x53e3;, &#x8fd9;&#x4e2a;&#x63a5;&#x53e3;&#x4f7f;&#x5f97;&#x4e00;&#x4e2a;&#x5b50;&#x7cfb;&#x7edf;&#x66f4;&#x52a0;&#x5bb9;&#x6613;&#x4f7f;&#x7528;."/>
+</node>
+<node CREATED="1566449531318" ID="ID_1640157072" MODIFIED="1566449547242" TEXT="&#x4eab;&#x5143;&#x6a21;&#x5f0f;(Flyweight Pattern)">
+<node CREATED="1566542993746" ID="ID_1723853880" MODIFIED="1566543084744" TEXT="&#x8fd0;&#x7528;&#x5171;&#x4eab;&#x6280;&#x672f;&#x6709;&#x6548;&#x7684;&#x652f;&#x6301;&#x5927;&#x91cf;&#x7ec6;&#x7c92;&#x5ea6;&#x5bf9;&#x8c61;&#x7684;&#x590d;&#x7528;. "/>
+</node>
 <node CREATED="1566449547652" ID="ID_1604290503" MODIFIED="1566449561237" TEXT="&#x4ee3;&#x7406;&#x6a21;&#x5f0f;(Proxy Pattern)"/>
 </node>
 </node>
