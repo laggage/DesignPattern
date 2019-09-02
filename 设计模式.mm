@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1566238994404" ID="ID_631102285" MODIFIED="1566290684431">
+<node CREATED="1566238994404" ID="ID_631102285" MODIFIED="1567383793652">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -83,7 +83,17 @@
 <node CREATED="1566449531318" ID="ID_1640157072" MODIFIED="1566449547242" TEXT="&#x4eab;&#x5143;&#x6a21;&#x5f0f;(Flyweight Pattern)">
 <node CREATED="1566542993746" ID="ID_1723853880" MODIFIED="1566543084744" TEXT="&#x8fd0;&#x7528;&#x5171;&#x4eab;&#x6280;&#x672f;&#x6709;&#x6548;&#x7684;&#x652f;&#x6301;&#x5927;&#x91cf;&#x7ec6;&#x7c92;&#x5ea6;&#x5bf9;&#x8c61;&#x7684;&#x590d;&#x7528;. "/>
 </node>
-<node CREATED="1566449547652" ID="ID_1604290503" MODIFIED="1566449561237" TEXT="&#x4ee3;&#x7406;&#x6a21;&#x5f0f;(Proxy Pattern)"/>
+<node CREATED="1566449547652" ID="ID_1604290503" MODIFIED="1566449561237" TEXT="&#x4ee3;&#x7406;&#x6a21;&#x5f0f;(Proxy Pattern)">
+<node CREATED="1567383685322" ID="ID_1333399724" MODIFIED="1567383687047" TEXT="&#x7ed9;&#x67d0;&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#x63d0;&#x4f9b;&#x4e00;&#x4e2a;&#x4ee3;&#x7406;&#x6216;&#x5360;&#x4f4d;&#x7b26;, &#x5e76;&#x7531;&#x4ee3;&#x7406;&#x5bf9;&#x8c61;&#x6765;&#x63a7;&#x5236;&#x5bf9;&#x539f;&#x5bf9;&#x8c61;&#x7684;&#x8bbf;&#x95ee;"/>
+</node>
+</node>
+<node CREATED="1567383803731" ID="ID_657761663" MODIFIED="1567383810106" POSITION="left" TEXT="&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;">
+<node CREATED="1567383866000" ID="ID_113835092" MODIFIED="1567383876340" TEXT="&#x7c7b;&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;"/>
+<node CREATED="1567383877345" ID="ID_264290582" MODIFIED="1567383887887" TEXT="&#x5bf9;&#x8c61;&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;">
+<node CREATED="1567387374711" ID="ID_1857749005" MODIFIED="1567387378822" TEXT="&#x804c;&#x8d23;&#x94fe;&#x6a21;&#x5f0f;">
+<node CREATED="1567387411099" ID="ID_1369504621" MODIFIED="1567387413535" TEXT="&#x907f;&#x514d;&#x5c06;&#x4e00;&#x4e2a;&#x8bf7;&#x6c42;&#x7684;&#x53d1;&#x9001;&#x8005;&#x4e0e;&#x63a5;&#x6536;&#x8005;&#x8026;&#x5408;&#x5728;&#x4e00;&#x8d77;&#xff0c;&#x8ba9;&#x591a;&#x4e2a;&#x5bf9;&#x8c61;&#x90fd;&#x6709;&#x673a;&#x4f1a;&#x5904;&#x7406;&#x8bf7;&#x6c42;&#x3002;&#x5c06;&#x63a5;&#x6536;&#x8bf7;&#x6c42;&#x7684;&#x5bf9;&#x8c61;&#x8fde;&#x63a5;&#x6210;&#x4e00;&#x6761;&#x94fe;&#xff0c;&#x5e76;&#x4e14;&#x6cbf;&#x7740;&#x8fd9;&#x6761;&#x94fe;&#x4f20;&#x9012;&#x8bf7;&#x6c42;&#xff0c;&#x76f4;&#x5230;&#x6709;&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#x80fd;&#x591f;&#x5904;&#x7406;&#x5b83;&#x4e3a;&#x6b62;&#x3002;"/>
+</node>
+</node>
 </node>
 </node>
 </map>

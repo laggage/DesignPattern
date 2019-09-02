@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ChainOfResponsibilityPattern.Apply.Approver">
+    <Position X="9.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAFAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apply\Approver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityPattern.Apply.President">
+    <Position X="8.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apply\Approver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityPattern.Apply.VicePresident">
+    <Position X="13.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apply\Approver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityPattern.Apply.Congress">
+    <Position X="6.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apply\Approver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityPattern.Apply.Director">
+    <Position X="11.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Apply\Approver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityPattern.Apply.PurchaseRequest">
+    <Position X="14" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAACAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Apply\PurchaseRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
