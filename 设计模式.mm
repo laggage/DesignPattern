@@ -89,10 +89,11 @@
 </node>
 <node CREATED="1567383803731" ID="ID_657761663" MODIFIED="1567383810106" POSITION="left" TEXT="&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;">
 <node CREATED="1567383866000" ID="ID_113835092" MODIFIED="1567383876340" TEXT="&#x7c7b;&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;"/>
-<node CREATED="1567383877345" ID="ID_264290582" MODIFIED="1567383887887" TEXT="&#x5bf9;&#x8c61;&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;">
-<node CREATED="1567387374711" ID="ID_1857749005" MODIFIED="1567387378822" TEXT="&#x804c;&#x8d23;&#x94fe;&#x6a21;&#x5f0f;">
+<node CREATED="1567383877345" ID="ID_264290582" MODIFIED="1567434591825" TEXT="&#x5bf9;&#x8c61;&#x884c;&#x4e3a;&#x578b;&#x6a21;&#x5f0f;">
+<node CREATED="1567387374711" ID="ID_1857749005" MODIFIED="1567434624933" TEXT="&#x804c;&#x8d23;&#x94fe;&#x6a21;&#x5f0f;(Chain of Responsibility Pattern)">
 <node CREATED="1567387411099" ID="ID_1369504621" MODIFIED="1567387413535" TEXT="&#x907f;&#x514d;&#x5c06;&#x4e00;&#x4e2a;&#x8bf7;&#x6c42;&#x7684;&#x53d1;&#x9001;&#x8005;&#x4e0e;&#x63a5;&#x6536;&#x8005;&#x8026;&#x5408;&#x5728;&#x4e00;&#x8d77;&#xff0c;&#x8ba9;&#x591a;&#x4e2a;&#x5bf9;&#x8c61;&#x90fd;&#x6709;&#x673a;&#x4f1a;&#x5904;&#x7406;&#x8bf7;&#x6c42;&#x3002;&#x5c06;&#x63a5;&#x6536;&#x8bf7;&#x6c42;&#x7684;&#x5bf9;&#x8c61;&#x8fde;&#x63a5;&#x6210;&#x4e00;&#x6761;&#x94fe;&#xff0c;&#x5e76;&#x4e14;&#x6cbf;&#x7740;&#x8fd9;&#x6761;&#x94fe;&#x4f20;&#x9012;&#x8bf7;&#x6c42;&#xff0c;&#x76f4;&#x5230;&#x6709;&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#x80fd;&#x591f;&#x5904;&#x7406;&#x5b83;&#x4e3a;&#x6b62;&#x3002;"/>
 </node>
+<node CREATED="1567434593151" ID="ID_1803976079" MODIFIED="1567434606851" TEXT="&#x547d;&#x4ee4;&#x6a21;&#x5f0f;(Command Pattern)"/>
 </node>
 </node>
 </node>

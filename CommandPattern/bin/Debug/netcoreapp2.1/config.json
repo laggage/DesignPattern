@@ -1,0 +1,3 @@
+{
+  "CommandName": "ExitSystem" // 功能按钮要调用的命令
+}
