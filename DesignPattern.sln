@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPatter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{8C71ED46-C980-42A1-B328-275E6CB8712C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{C512088F-92EA-44C9-99A7-ABE53A130B67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{C512088F-92EA-44C9-99A7-ABE53A130B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "InterpreterPattern\InterpreterPattern.csproj", "{DA5A2504-D661-447F-A542-B940BB30277F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{C512088F-92EA-44C9-99A7-ABE53A130B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C512088F-92EA-44C9-99A7-ABE53A130B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C512088F-92EA-44C9-99A7-ABE53A130B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5A2504-D661-447F-A542-B940BB30277F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5A2504-D661-447F-A542-B940BB30277F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5A2504-D661-447F-A542-B940BB30277F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5A2504-D661-447F-A542-B940BB30277F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

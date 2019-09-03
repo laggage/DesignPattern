@@ -1,0 +1,12 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.exe
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.pdb

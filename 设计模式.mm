@@ -93,7 +93,13 @@
 <node CREATED="1567387374711" ID="ID_1857749005" MODIFIED="1567434624933" TEXT="&#x804c;&#x8d23;&#x94fe;&#x6a21;&#x5f0f;(Chain of Responsibility Pattern)">
 <node CREATED="1567387411099" ID="ID_1369504621" MODIFIED="1567387413535" TEXT="&#x907f;&#x514d;&#x5c06;&#x4e00;&#x4e2a;&#x8bf7;&#x6c42;&#x7684;&#x53d1;&#x9001;&#x8005;&#x4e0e;&#x63a5;&#x6536;&#x8005;&#x8026;&#x5408;&#x5728;&#x4e00;&#x8d77;&#xff0c;&#x8ba9;&#x591a;&#x4e2a;&#x5bf9;&#x8c61;&#x90fd;&#x6709;&#x673a;&#x4f1a;&#x5904;&#x7406;&#x8bf7;&#x6c42;&#x3002;&#x5c06;&#x63a5;&#x6536;&#x8bf7;&#x6c42;&#x7684;&#x5bf9;&#x8c61;&#x8fde;&#x63a5;&#x6210;&#x4e00;&#x6761;&#x94fe;&#xff0c;&#x5e76;&#x4e14;&#x6cbf;&#x7740;&#x8fd9;&#x6761;&#x94fe;&#x4f20;&#x9012;&#x8bf7;&#x6c42;&#xff0c;&#x76f4;&#x5230;&#x6709;&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#x80fd;&#x591f;&#x5904;&#x7406;&#x5b83;&#x4e3a;&#x6b62;&#x3002;"/>
 </node>
-<node CREATED="1567434593151" ID="ID_1803976079" MODIFIED="1567434606851" TEXT="&#x547d;&#x4ee4;&#x6a21;&#x5f0f;(Command Pattern)"/>
+<node CREATED="1567434593151" ID="ID_1803976079" MODIFIED="1567434606851" TEXT="&#x547d;&#x4ee4;&#x6a21;&#x5f0f;(Command Pattern)">
+<node CREATED="1567528600888" ID="ID_505238385" MODIFIED="1567528602942" TEXT="&#x5c06;&#x4e00;&#x4e2a;&#x8bf7;&#x6c42;&#x5c01;&#x88c5;&#x4e3a;&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#xff0c;&#x4ece;&#x800c;&#x8ba9;&#x4f60;&#x53ef;&#x4ee5;&#x7528;&#x4e0d;&#x540c;&#x7684;&#x8bf7;&#x6c42;&#x5bf9;&#x5ba2;&#x6237;&#x8fdb;&#x884c;&#x53c2;&#x6570;&#x5316;&#xff0c;&#x5bf9;&#x8bf7;&#x6c42;&#x6392;&#x961f;&#x6216;&#x8005;&#x8bb0;&#x5f55;&#x8bf7;&#x6c42;&#x65e5;&#x5fd7;&#xff0c;&#x4ee5;&#x53ca;&#x652f;&#x6301;&#x53ef;&#x64a4;&#x9500;&#x7684;&#x64cd;&#x4f5c;&#x3002;"/>
+</node>
+<node CREATED="1567528416105" ID="ID_8910184" MODIFIED="1567528450939" TEXT="&#x89e3;&#x91ca;&#x5668;&#x6a21;&#x5f0f;(Interpreter Patter)">
+<node CREATED="1567528622930" ID="ID_486807890" MODIFIED="1567528624981" TEXT="&#x7ed9;&#x5b9a;&#x4e00;&#x4e2a;&#x8bed;&#x8a00;&#xff0c;&#x5b9a;&#x4e49;&#x5b83;&#x7684;&#x6587;&#x6cd5;&#x7684;&#x4e00;&#x79cd;&#x8868;&#x793a;&#xff0c;&#x5e76;&#x5b9a;&#x4e49;&#x4e00;&#x4e2a;&#x89e3;&#x91ca;&#x5668;&#xff0c;&#x8fd9;&#x4e2a;&#x89e3;&#x91ca;&#x5668;&#x4f7f;&#x7528;&#x8be5;&#x8868;&#x793a;&#x6765;&#x89e3;&#x91ca;&#x8bed;&#x8a00;&#x4e2d;&#x7684;&#x53e5;&#x5b50;&#x3002;"/>
+</node>
+<node CREATED="1567528452765" ID="ID_1755234872" MODIFIED="1567528503608" TEXT="&#x8fed;&#x4ee3;&#x5668;&#x6a21;&#x5f0f;(Iterator Pattern)"/>
 </node>
 </node>
 </node>
