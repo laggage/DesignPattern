@@ -13,10 +13,18 @@
 </html></richcontent>
 <hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
 <node CREATED="1566239094192" HGAP="109" ID="ID_455992616" MODIFIED="1566239269283" POSITION="right" TEXT="&#x8bbe;&#x8ba1;&#x539f;&#x5219;" VSHIFT="-274">
-<node CREATED="1566239123548" HGAP="94" ID="ID_486571327" MODIFIED="1566240501704" STYLE="fork" TEXT="&#x5355;&#x4e00;&#x804c;&#x8d23;&#x539f;&#x5219;(Single Responsibility Principle, SRP)" VSHIFT="-16"/>
-<node CREATED="1566239172950" HGAP="99" ID="ID_561150040" MODIFIED="1566239285374" TEXT="&#x5f00;&#x95ed;&#x539f;&#x5219;(Open Closed Principle, OCP)" VSHIFT="-12"/>
-<node CREATED="1566239218246" HGAP="101" ID="ID_1237367702" MODIFIED="1566239461625" TEXT="&#x91cc;&#x6c0f;&#x66ff;&#x6362;&#x539f;&#x5219;(Liskov Substitution Principle, LSP)" VSHIFT="-6"/>
-<node CREATED="1566239290581" HGAP="104" ID="ID_1386034602" MODIFIED="1566239465325" TEXT="&#x4f9d;&#x8d56;&#x5012;&#x8f6c;&#x539f;&#x5219;(Dependence Inversion Principle, DIP)" VSHIFT="-1"/>
+<node CREATED="1566239123548" HGAP="94" ID="ID_486571327" MODIFIED="1566240501704" STYLE="fork" TEXT="&#x5355;&#x4e00;&#x804c;&#x8d23;&#x539f;&#x5219;(Single Responsibility Principle, SRP)" VSHIFT="-16">
+<node CREATED="1567528897882" ID="ID_1953686333" MODIFIED="1567528900563" TEXT="&#x4e00;&#x4e2a;&#x5bf9;&#x8c61;&#x5e94;&#x8be5;&#x53ea;&#x5305;&#x542b;&#x5355;&#x4e00;&#x7684;&#x804c;&#x8d23;&#xff0c;&#x5e76;&#x4e14;&#x8be5;&#x804c;&#x8d23;&#x88ab;&#x5b8c;&#x6574;&#x5730;&#x5c01;&#x88c5;&#x5728;&#x4e00;&#x4e2a;&#x7c7b;&#x4e2d; "/>
+</node>
+<node CREATED="1566239172950" HGAP="99" ID="ID_561150040" MODIFIED="1566239285374" TEXT="&#x5f00;&#x95ed;&#x539f;&#x5219;(Open Closed Principle, OCP)" VSHIFT="-12">
+<node CREATED="1567528906501" ID="ID_1218875307" MODIFIED="1567528908508" TEXT="&#x8f6f;&#x4ef6;&#x5b9e;&#x4f53;&#x5e94;&#x5f53;&#x5bf9;&#x6269;&#x5c55;&#x5f00;&#x653e;&#xff0c;&#x5bf9;&#x4fee;&#x6539;&#x5173;&#x95ed; "/>
+</node>
+<node CREATED="1566239218246" HGAP="101" ID="ID_1237367702" MODIFIED="1566239461625" TEXT="&#x91cc;&#x6c0f;&#x66ff;&#x6362;&#x539f;&#x5219;(Liskov Substitution Principle, LSP)" VSHIFT="-6">
+<node CREATED="1567528914865" ID="ID_1581501070" MODIFIED="1567528916316" TEXT="&#x6240;&#x6709;&#x5f15;&#x7528;&#x57fa;&#x7c7b;&#x7684;&#x5730;&#x65b9;&#x5fc5;&#x987b;&#x80fd;&#x900f;&#x660e;&#x5730;&#x4f7f;&#x7528;&#x5176;&#x5b50;&#x7c7b;&#x7684;&#x5bf9;&#x8c61; "/>
+</node>
+<node CREATED="1566239290581" HGAP="104" ID="ID_1386034602" MODIFIED="1566239465325" TEXT="&#x4f9d;&#x8d56;&#x5012;&#x8f6c;&#x539f;&#x5219;(Dependence Inversion Principle, DIP)" VSHIFT="-1">
+<node CREATED="1567528923493" ID="ID_1097779282" MODIFIED="1567528925493" TEXT="&#x9ad8;&#x5c42;&#x6a21;&#x5757;&#x4e0d;&#x5e94;&#x8be5;&#x4f9d;&#x8d56;&#x4f4e;&#x5c42;&#x6a21;&#x5757;&#xff0c;&#x5b83;&#x4eec;&#x90fd;&#x5e94;&#x8be5;&#x4f9d;&#x8d56;&#x62bd;&#x8c61;&#x3002;&#x62bd;&#x8c61;&#x4e0d;&#x5e94;&#x8be5;&#x4f9d;&#x8d56;&#x4e8e;&#x7ec6;&#x8282;&#xff0c;&#x7ec6;&#x8282;&#x5e94;&#x8be5;&#x4f9d;&#x8d56;&#x4e8e;&#x62bd;&#x8c61; "/>
+</node>
 <node CREATED="1566239329262" HGAP="107" ID="ID_1293030050" MODIFIED="1566239499008" VSHIFT="3">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -28,9 +36,14 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1567528933974" ID="ID_167769675" MODIFIED="1567528935926" TEXT="&#x5ba2;&#x6237;&#x7aef;&#x4e0d;&#x5e94;&#x8be5;&#x4f9d;&#x8d56;&#x90a3;&#x4e9b;&#x5b83;&#x4e0d;&#x9700;&#x8981;&#x7684;&#x63a5;&#x53e3; "/>
 </node>
-<node CREATED="1566239373858" HGAP="106" ID="ID_555570852" MODIFIED="1566239472310" TEXT="&#x5408;&#x6210;&#x590d;&#x7528;&#x539f;&#x5219;(Composite Reuse Principle, CRP)" VSHIFT="6"/>
-<node CREATED="1566239406090" HGAP="114" ID="ID_1197047216" MODIFIED="1566240340926" TEXT="&#x8fea;&#x7c73;&#x7279;&#x6cd5;&#x5219;(Law of Demeter, LoD) , &#x6700;&#x5c11;&#x77e5;&#x8bc6;&#x539f;&#x5219;(Least Knowledge Principle, LKP)" VSHIFT="7"/>
+<node CREATED="1566239373858" HGAP="106" ID="ID_555570852" MODIFIED="1566239472310" TEXT="&#x5408;&#x6210;&#x590d;&#x7528;&#x539f;&#x5219;(Composite Reuse Principle, CRP)" VSHIFT="6">
+<node CREATED="1567528941611" ID="ID_1109999463" MODIFIED="1567528944897" TEXT="&#x4f18;&#x5148;&#x4f7f;&#x7528;&#x5bf9;&#x8c61;&#x7ec4;&#x5408;&#xff0c;&#x800c;&#x4e0d;&#x662f;&#x7ee7;&#x627f;&#x6765;&#x8fbe;&#x5230;&#x590d;&#x7528;&#x7684;&#x76ee;&#x7684; "/>
+</node>
+<node CREATED="1566239406090" HGAP="114" ID="ID_1197047216" MODIFIED="1566240340926" TEXT="&#x8fea;&#x7c73;&#x7279;&#x6cd5;&#x5219;(Law of Demeter, LoD) , &#x6700;&#x5c11;&#x77e5;&#x8bc6;&#x539f;&#x5219;(Least Knowledge Principle, LKP)" VSHIFT="7">
+<node CREATED="1567528954686" ID="ID_245303238" MODIFIED="1567528956469" TEXT="&#x6bcf;&#x4e00;&#x4e2a;&#x8f6f;&#x4ef6;&#x5355;&#x4f4d;&#x5bf9;&#x5176;&#x4ed6;&#x7684;&#x5355;&#x4f4d;&#x90fd;&#x53ea;&#x6709;&#x6700;&#x5c11;&#x7684;&#x77e5;&#x8bc6;&#xff0c;&#x800c;&#x4e14;&#x5c40;&#x9650;&#x4e8e;&#x90a3;&#x4e9b;&#x4e0e;&#x672c;&#x5355;&#x4f4d;&#x5bc6;&#x5207;&#x76f8;&#x5173;&#x7684;&#x8f6f;&#x4ef6;&#x5355;&#x4f4d; "/>
+</node>
 </node>
 <node CREATED="1566289437203" HGAP="31" ID="ID_118244641" MODIFIED="1566289690110" POSITION="left" TEXT="&#x521b;&#x5efa;&#x578b;&#x6a21;&#x5f0f;" VSHIFT="-353">
 <node CREATED="1566289490656" ID="ID_958540515" MODIFIED="1566289510843" TEXT="&#x7b80;&#x5355;&#x5de5;&#x5382;&#x6a21;&#x5f0f;(Simple Factory Pattern)">

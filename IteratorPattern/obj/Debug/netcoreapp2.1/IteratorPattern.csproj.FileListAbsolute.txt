@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.pdb
