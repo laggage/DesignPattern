@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.csprojAssemblyReference.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.pdb

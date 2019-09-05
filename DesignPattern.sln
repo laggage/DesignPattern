@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpreterPattern", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{730265A0-5AB9-477F-92C2-10C28D616F25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeidatorPattern", "MeidatorPattern\MeidatorPattern.csproj", "{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{730265A0-5AB9-477F-92C2-10C28D616F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730265A0-5AB9-477F-92C2-10C28D616F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730265A0-5AB9-477F-92C2-10C28D616F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
