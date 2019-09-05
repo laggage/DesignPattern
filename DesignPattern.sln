@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpreterPattern", "InterpreterPattern\InterpreterPattern.csproj", "{DA5A2504-D661-447F-A542-B940BB30277F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{730265A0-5AB9-477F-92C2-10C28D616F25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{730265A0-5AB9-477F-92C2-10C28D616F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeidatorPattern", "MeidatorPattern\MeidatorPattern.csproj", "{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeidatorPattern", "MeidatorPattern\MeidatorPattern.csproj", "{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "MementoPattern\MementoPattern.csproj", "{99AF3C8D-1F1F-4AA2-B4E7-53E8D39E9924}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ACD3FAF-1A29-4F87-9BAF-8EB5531A5B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AF3C8D-1F1F-4AA2-B4E7-53E8D39E9924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AF3C8D-1F1F-4AA2-B4E7-53E8D39E9924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AF3C8D-1F1F-4AA2-B4E7-53E8D39E9924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AF3C8D-1F1F-4AA2-B4E7-53E8D39E9924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

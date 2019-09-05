@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\bin\Debug\netcoreapp2.1\MementoPattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\bin\Debug\netcoreapp2.1\MementoPattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\bin\Debug\netcoreapp2.1\MementoPattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\bin\Debug\netcoreapp2.1\MementoPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\bin\Debug\netcoreapp2.1\MementoPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\obj\Debug\netcoreapp2.1\MementoPattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\obj\Debug\netcoreapp2.1\MementoPattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\obj\Debug\netcoreapp2.1\MementoPattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\obj\Debug\netcoreapp2.1\MementoPattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\obj\Debug\netcoreapp2.1\MementoPattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MementoPattern\obj\Debug\netcoreapp2.1\MementoPattern.csprojAssemblyReference.cache
