@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="StatePattern.Sample.Account">
+    <Position X="8" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAgAQAQAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>Sample\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePattern.Sample.AccountState">
+    <Position X="4.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAAI=</HashCode>
+      <FileName>Sample\AccountState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePattern.Sample.NormalState">
+    <Position X="4.25" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>Sample\AccountState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePattern.Sample.OverdraftState">
+    <Position X="7.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>Sample\AccountState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePattern.Sample.RestrictedState">
+    <Position X="0.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>Sample\AccountState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

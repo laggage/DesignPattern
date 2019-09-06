@@ -1,0 +1,3 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.deps.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.dev.json
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csproj.CoreCompileInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfoInputs.cache
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfo.cs
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.dll
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.pdb
+F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csprojAssemblyReference.cache
