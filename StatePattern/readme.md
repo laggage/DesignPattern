@@ -2,8 +2,6 @@
 
 ## 概述
 
-
-
 ## 定义
 
 状态模式：**允许一个对象在其内部状态改变时改变它的行为。对象看起来似乎修改了它的类。**
@@ -20,7 +18,7 @@ State Pattern: **Allow an object to alter its behavior when its internal state c
 环境类是真正拥有状态的对象, 只是将环境类中与状态有关的代码提取出来封装到专门的状态中;
 State与Context之间可能存在依赖或双向关联关系;
 
-```
+```csharp
 /// <summary>
 /// 环境类, 真正拥有状态的对象, 将环境类中于状态有关的代码提取出来封装到
 /// </summary>
@@ -47,7 +45,7 @@ class Context
 
 典型代码
 
-```
+```csharp
 abstract class State
 {
     public abstract void Handle();
@@ -58,7 +56,7 @@ abstract class State
 
 典型代码
 
-```
+```csharp
 class ConcreteState : State
 {
     public override void Handle()
@@ -72,7 +70,7 @@ class ConcreteState : State
 
 1. 由环境类负责状态转换, 此时环境类还充当状态管理器(State Manager)的角色, 再环境类的业务方法中通过对某些属性值的判读, 实现状态转换;
 
-```
+```csharp
 ……
 public void ChangeState()
 {
@@ -92,7 +90,7 @@ public void ChangeState()
 
 2. 由具体状态类负责状态之间的转换, 可以再具体状态类的业务方法中判断环境类的某些属性值, 再根据情况为环境类设置新的状态对象, 实现状态转换;
 
-```
+```csharp
      ……
 public void ChangeState(Context ctx) 
 {
@@ -112,6 +110,8 @@ public void ChangeState(Context ctx)
 ```
 
 ## 应用实例
+
+### 银行账户
 
 > 某软件公司要为一银行开发一套信用卡业务系统，银行账户(Account)是该系统的核心类之一，通过分析，该软件公司开发人员发现在系统中账户存在3种状态，且在不同状态下账户存在不同的行为，具体说明如下：
 (1) 如果账户中余额大于等于0，则账户的状态为正常状态(Normal State)，此时用户既可以向该账户存款也可以从该账户取款；
@@ -191,7 +191,7 @@ namespace StatePattern.Sample
 <details>
 <summary>点击展开查看代码</summary>
 
-```
+```csharp
 namespace StatePattern.Sample
 {
     using System;
@@ -270,7 +270,7 @@ namespace StatePattern.Sample
 
 客户端调用
 
-```
+```csharp
 Account acc = new Account("李逍遥");
     acc.Deposit(1000);
     acc.WithDraw(2000);

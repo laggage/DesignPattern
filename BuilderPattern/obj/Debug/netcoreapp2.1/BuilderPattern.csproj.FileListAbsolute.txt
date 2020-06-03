@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Deb
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.pdb
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.pdb

@@ -1,3 +1,13 @@
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.csproj.CoreCompileInputs.cache
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.AssemblyInfoInputs.cache
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\bin\Debug\netcoreapp2.1\ObservePattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\bin\Debug\netcoreapp2.1\ObservePattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\bin\Debug\netcoreapp2.1\ObservePattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\bin\Debug\netcoreapp2.1\ObservePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\bin\Debug\netcoreapp2.1\ObservePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ObservePattern\obj\Debug\netcoreapp2.1\ObservePattern.pdb

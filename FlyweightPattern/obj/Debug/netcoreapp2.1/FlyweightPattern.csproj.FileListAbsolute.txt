@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\D
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\bin\Debug\netcoreapp2.1\FlyweightPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FlyweightPattern\obj\Debug\netcoreapp2.1\FlyweightPattern.pdb

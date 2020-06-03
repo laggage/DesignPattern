@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\PrototypePattern\obj\D
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.pdb
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.pdb

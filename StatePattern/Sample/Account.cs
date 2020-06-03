@@ -20,7 +20,7 @@
             Name = name;
         }
 
-        public Account(string name):this()
+        public Account(string name) : this()
         {
             Name = name;
         }

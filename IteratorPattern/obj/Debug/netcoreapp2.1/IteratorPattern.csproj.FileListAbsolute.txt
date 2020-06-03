@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\De
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\bin\Debug\netcoreapp2.1\IteratorPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\IteratorPattern\obj\Debug\netcoreapp2.1\IteratorPattern.pdb

@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\D
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\bin\Debug\netcoreapp2.1\CompositePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\CompositePattern\obj\Debug\netcoreapp2.1\CompositePattern.pdb

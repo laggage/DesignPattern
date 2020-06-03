@@ -14,3 +14,8 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SimpleFactoryPattern\o
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.pdb

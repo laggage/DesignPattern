@@ -17,7 +17,7 @@
 
     class NormalState : AccountState
     {
-        public NormalState(Account account):base(account)
+        public NormalState(Account account) : base(account)
         {
         }
 

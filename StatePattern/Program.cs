@@ -1,8 +1,7 @@
 ﻿namespace StatePattern
 {
+    using StatePattern.Sample.Player;
     using System;
-    using StatePattern.Sample;
-    using StatePattern.Sample.ShareState;
     using SampleClient = Sample.ShareState.SampleClient;
 
     class Program
@@ -10,7 +9,7 @@
         static void Main(string[] args)
         {
             //SampleClient.Run();
-            SampleClient.Run();
+            PlayerSampleClient.Run();
             Console.Read();
         }
     }

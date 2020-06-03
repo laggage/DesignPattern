@@ -720,25 +720,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laggage\\.nuget\\packages\\": {},
-    "E:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\la\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
+      "projectUniqueName": "D:\\OneDrive\\la\\StudyResource\\Coding\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
       "projectName": "SimpleFactoryPattern",
-      "projectPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
-      "packagesPath": "C:\\Users\\laggage\\.nuget\\packages\\",
-      "outputPath": "F:\\Laggage\\CodeRepository\\DotNet\\C#\\Project\\DesignPattern\\SimpleFactoryPattern\\obj\\",
+      "projectPath": "D:\\OneDrive\\la\\StudyResource\\Coding\\DesignPattern\\SimpleFactoryPattern\\SimpleFactoryPattern.csproj",
+      "packagesPath": "C:\\Users\\la\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\la\\StudyResource\\Coding\\DesignPattern\\SimpleFactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\laggage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\la\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -784,7 +782,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

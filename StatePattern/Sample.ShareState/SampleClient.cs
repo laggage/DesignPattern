@@ -1,10 +1,5 @@
 ﻿namespace StatePattern.Sample.ShareState
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-
     class SampleClient
     {
         public static void Run()
@@ -17,6 +12,6 @@
             s2.Off();
             s2.Off();
         }
-        
+
     }
 }

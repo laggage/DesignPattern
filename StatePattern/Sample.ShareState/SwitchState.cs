@@ -15,7 +15,7 @@ namespace StatePattern.Sample.ShareState
             Console.WriteLine("开关已经打开.");
         }
 
-        public override void Off(Switch s) 
+        public override void Off(Switch s)
         {
             s.SetState(s.GetState("off"));
             Console.WriteLine("开关关闭.");

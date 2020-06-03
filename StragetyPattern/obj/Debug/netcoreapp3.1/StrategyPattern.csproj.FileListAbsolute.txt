@@ -1,0 +1,14 @@
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\DesignParttern.Shared.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\bin\Debug\netcoreapp3.1\DesignParttern.Shared.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csproj.CopyComplete
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\StragetyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb

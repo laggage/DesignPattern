@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debu
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.pdb
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\bin\Debug\netcoreapp2.1\BridgePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\BridgePattern\obj\Debug\netcoreapp2.1\BridgePattern.pdb

@@ -8,3 +8,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Deb
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.pdb

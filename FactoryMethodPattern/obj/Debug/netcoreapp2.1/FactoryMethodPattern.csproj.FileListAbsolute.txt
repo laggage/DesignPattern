@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\o
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.pdb

@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debu
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\bin\Debug\netcoreapp2.1\FacadePattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\FacadePattern\obj\Debug\netcoreapp2.1\FacadePattern.pdb

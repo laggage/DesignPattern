@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AbstractFactoryPattern
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\bin\Debug\netcoreapp2.1\AbstractFactoryPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\AbstractFactoryPattern\obj\Debug\netcoreapp2.1\AbstractFactoryPattern.pdb

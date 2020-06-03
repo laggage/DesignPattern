@@ -2,7 +2,7 @@
 {
     class Switch
     {
-        private static SwitchState currentState,onState,offState;
+        private static SwitchState currentState, onState, offState;
 
         static Switch()
         {
@@ -17,11 +17,11 @@
 
         public SwitchState GetState(string state)
         {
-            switch(state)
+            switch (state)
             {
-                case "on": return onState; 
-                case "off": return offState; 
-                default:return currentState; 
+                case "on": return onState;
+                case "off": return offState;
+                default: return currentState;
             }
         }
 

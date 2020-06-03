@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StrategyPattern/1.0.0": {
+        "dependencies": {
+          "DesignParttern.Shared": "1.0.0"
+        },
+        "runtime": {
+          "StrategyPattern.dll": {}
+        }
+      },
+      "DesignParttern.Shared/1.0.0": {
+        "runtime": {
+          "DesignParttern.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StrategyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignParttern.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

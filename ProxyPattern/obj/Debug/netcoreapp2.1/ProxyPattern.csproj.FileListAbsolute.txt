@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\bin\Debug\netcoreapp2.1\ProxyPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\ProxyPattern\obj\Debug\netcoreapp2.1\ProxyPattern.pdb

@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\D
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.pdb

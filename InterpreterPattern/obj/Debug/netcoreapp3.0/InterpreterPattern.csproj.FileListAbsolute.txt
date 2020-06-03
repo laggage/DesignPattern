@@ -10,3 +10,14 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.exe
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\bin\Debug\netcoreapp3.0\InterpreterPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\InterpreterPattern\obj\Debug\netcoreapp3.0\InterpreterPattern.pdb

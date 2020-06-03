@@ -9,3 +9,13 @@ F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\De
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.AssemblyInfo.cs
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.dll
 F:\Laggage\CodeRepository\DotNet\C#\Project\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\bin\Debug\netcoreapp2.1\MeidatorPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MeidatorPattern\obj\Debug\netcoreapp2.1\MeidatorPattern.pdb
