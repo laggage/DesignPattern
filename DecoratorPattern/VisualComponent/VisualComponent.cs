@@ -1,7 +1,7 @@
-﻿namespace DecoratorPattern.VisualComponent
-{
-    using System;
+﻿using System;
 
+namespace DecoratorPattern.VisualComponent
+{
     public abstract class ComponentDecorator : VisualComponent
     {
         VisualComponent _component;
@@ -26,7 +26,7 @@
     {
         public override void Display()
         {
-            Console.WriteLine("--- Window ---"); 
+            Console.WriteLine("--- Window ---");
         }
     }
 
@@ -46,9 +46,9 @@
         }
     }
 
-    public class ScrollBarDecorator :  ComponentDecorator
+    public class ScrollBarDecorator : ComponentDecorator
     {
-        public ScrollBarDecorator(VisualComponent component):base(component)
+        public ScrollBarDecorator(VisualComponent component) : base(component)
         {
         }
 
@@ -64,9 +64,9 @@
         }
     }
 
-    public class BlackBorderDecorator :  ComponentDecorator
+    public class BlackBorderDecorator : ComponentDecorator
     {
-        public BlackBorderDecorator(VisualComponent component):base(component)
+        public BlackBorderDecorator(VisualComponent component) : base(component)
         {
         }
 

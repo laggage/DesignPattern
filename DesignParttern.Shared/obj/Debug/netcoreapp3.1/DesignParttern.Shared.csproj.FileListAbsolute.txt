@@ -5,4 +5,3 @@ D:\OneDrive\la\StudyResource\Coding\DesignPattern\DesignParttern.Shared\obj\Debu
 D:\OneDrive\la\StudyResource\Coding\DesignPattern\DesignParttern.Shared\obj\Debug\netcoreapp3.1\DesignParttern.Shared.AssemblyInfo.cs
 D:\OneDrive\la\StudyResource\Coding\DesignPattern\DesignParttern.Shared\obj\Debug\netcoreapp3.1\DesignParttern.Shared.dll
 D:\OneDrive\la\StudyResource\Coding\DesignPattern\DesignParttern.Shared\obj\Debug\netcoreapp3.1\DesignParttern.Shared.pdb
-D:\OneDrive\la\StudyResource\Coding\DesignPattern\DesignParttern.Shared\obj\Debug\netcoreapp3.1\DesignParttern.Shared.csprojAssemblyReference.cache

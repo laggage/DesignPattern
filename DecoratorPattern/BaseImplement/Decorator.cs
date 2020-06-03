@@ -5,7 +5,7 @@
         public abstract void Operation();
     }
 
-    class ConcreteComponent: Component
+    class ConcreteComponent : Component
     {
         public override void Operation()
         {
@@ -28,9 +28,9 @@
         }
     }
 
-    class ConcreteDecorator:Decorator
+    class ConcreteDecorator : Decorator
     {
-        public ConcreteDecorator(Component component):base(component)
+        public ConcreteDecorator(Component component) : base(component)
         {
         }
 
