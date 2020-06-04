@@ -1,0 +1,14 @@
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.exe
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.deps.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.runtimeconfig.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.runtimeconfig.dev.json
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\MementoPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.csprojAssemblyReference.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.AssemblyInfoInputs.cache
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.AssemblyInfo.cs
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\DesignParttern.Shared.dll
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\bin\Debug\netcoreapp3.1\DesignParttern.Shared.pdb
+D:\OneDrive\la\StudyResource\Coding\DesignPattern\MementoPattern\obj\Debug\netcoreapp3.1\MementoPattern.csproj.CopyComplete

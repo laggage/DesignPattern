@@ -26,7 +26,7 @@ Memento Pattern: Without violating encapsulation, capture and externalize an obj
 <details>
 <summary>点击展开查看代码</summary>
 
-```
+```csharp
 namespace MementoPattern.BaseImplemnt
 {
     using System;
@@ -125,7 +125,7 @@ Chessman
 <details>
 <summary>点击展开查看代码</summary>
 
-```
+```csharp
 namespace MementoPattern.Sample
 {
     using System;
@@ -173,7 +173,7 @@ ChessmanMemento
 <details>
 <summary>点击展开查看代码</summary>
 
-```
+```csharp
 namespace MementoPattern.Sample
 {
     using System.Collections.Generic;
@@ -226,7 +226,7 @@ namespace MementoPattern.Sample
 
 客户端代码
 
-```
+```csharp
 namespace MementoPattern.Sample
 {
     using System;
@@ -261,3 +261,144 @@ namespace MementoPattern.Sample
     }
 }
 ```
+
+### 游戏进度的保存
+
+
+`GameRole` 充当 `Originator` 角色
+
+<details>
+<summary>GameRole</summary>
+
+```csharp
+using System;
+
+namespace MementoPattern.Sample.GameProcess
+{
+    public class GameRole
+    {
+        /// <summary>
+        /// 生命力
+        /// </summary>
+        public int Vatility { get; set; }
+        /// <summary>
+        /// 攻击力
+        /// </summary>
+        public int ATK { get; set; }
+        /// <summary>
+        /// 防御力
+        /// </summary>
+        public int Defensive { get; set; }
+
+        public GameRole(int vatility, int atk, int defensive)
+        {
+            Vatility = vatility;
+            ATK = atk;
+            Defensive = defensive;
+        }
+
+        public GameRole()
+        {
+        }
+
+        public void DisplayState()
+        {
+            Console.WriteLine(new string('-', 20));
+            Console.WriteLine($"生命: {Vatility}; 攻击力: {ATK}; 防御: {Defensive}\r\n");
+        }
+
+        public void Fight()
+        {
+            Console.WriteLine("Fighting...");
+            Vatility = Vatility > 10 ? Vatility - 10 : Vatility;
+            ATK = ATK > 10 ? ATK - 10 : ATK;
+            Defensive = Defensive > 10 ? Defensive - 10 : Defensive;
+            DisplayState();
+        }
+
+        /// <summary>
+        /// 保存状态
+        /// </summary>
+        /// <returns></returns>
+        public RoleStateMemento CreateRoleStateMemento()
+        {
+            return new RoleStateMemento(Vatility, ATK, Defensive);
+        }
+
+        /// <summary>
+        /// 恢复状态
+        /// </summary>
+        public void RestoreState(RoleStateMemento memento)
+        {
+            Vatility = memento.Vatility;
+            ATK = memento.ATK;
+            Defensive = memento.Defensive;
+        }
+    }
+}
+```
+</details>
+
+<details>
+<summary>RoleStateMemento</summary>
+
+```csharp
+namespace MementoPattern.Sample.GameProcess
+{
+    public class RoleStateMemento
+    {
+        /// <summary>
+        /// 生命力
+        /// </summary>
+        public int Vatility { get; set; }
+        /// <summary>
+        /// 攻击力
+        /// </summary>
+        public int ATK { get; set; }
+        /// <summary>
+        /// 防御力
+        /// </summary>
+        public int Defensive { get; set; }
+
+        public RoleStateMemento(int vatility, int atk, int defensive)
+        {
+            Vatility = vatility;
+            ATK = atk;
+            Defensive = defensive;
+        }
+    }
+}
+```
+</details>
+
+<details>
+<summary>RoleStateCareTaker</summary>
+
+```csharp
+namespace MementoPattern.Sample.GameProcess
+{
+    public class RoleStateMemento
+    {
+        /// <summary>
+        /// 生命力
+        /// </summary>
+        public int Vatility { get; set; }
+        /// <summary>
+        /// 攻击力
+        /// </summary>
+        public int ATK { get; set; }
+        /// <summary>
+        /// 防御力
+        /// </summary>
+        public int Defensive { get; set; }
+
+        public RoleStateMemento(int vatility, int atk, int defensive)
+        {
+            Vatility = vatility;
+            ATK = atk;
+            Defensive = defensive;
+        }
+    }
+}
+```
+</details>

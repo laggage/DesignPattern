@@ -1,16 +1,15 @@
-﻿namespace MementoPattern
-{
-    using System;
-    using MementoPattern.BaseImplemnt;
-    using MementoPattern.Sample;
+﻿using DesignParttern.Shared;
+using System;
 
+namespace MementoPattern
+{
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            var manager = new SampleClientManager();
+            manager.Run();
 
-            // Client.Run();
-            SampleClient.Run();
             Console.Read();
         }
     }
