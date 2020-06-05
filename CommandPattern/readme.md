@@ -22,7 +22,7 @@ Command Pattern: **Encapsulate a request as an object, thereby letting you param
 
 ![image](https://user-images.githubusercontent.com/38829279/64145242-85405b80-ce4a-11e9-98e3-cb87c18df8c0.png)
 
-```
+```csharp
 namespace CommandPattern.BaseImplement
 {
     abstract class Command
@@ -62,7 +62,7 @@ namespace CommandPattern.BaseImplement
 ## 应用实例
 
 > 为了用户使用方便，某系统提供了一系列功能键，用户可以自定义功能键的功能，例如功能键FunctionButton可以用于退出系统（由SystemExitClass类来实现），也可以用于显示帮助文档（由DisplayHelpClass类来实现）。
-用户可以通过修改配置文件来改变功能键的用途，现使用命令模式来设计该系统，使得功能键类与功能类之间解耦，可为同一个功能键设置不同的功能。
+用户可以通过**修改配置文件**来改变功能键的用途，现使用命令模式来设计该系统，使得功能键类与功能类之间解耦，可为同一个功能键设置不同的功能。
 
 ![image](https://user-images.githubusercontent.com/38829279/64173537-1be03d00-ce8a-11e9-9178-48e9e991d35d.png)
 
@@ -70,7 +70,7 @@ namespace CommandPattern.BaseImplement
 <details>
 <summary>点击展开查看代码</summary>
 
-```
+```csharp
 namespace CommandPattern.Sample
 {
     using System;

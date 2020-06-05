@@ -1,9 +1,10 @@
-﻿namespace CommandPattern
-{
-    using System.IO;
-    using CommandPattern.Sample;
-    using Microsoft.Extensions.Configuration;
+﻿using System.IO;
+using CommandPattern.Sample;
+using DesignParttern.Shared;
+using Microsoft.Extensions.Configuration;
 
+namespace CommandPattern
+{
     class Program
     {
         private static readonly IConfigurationBuilder _configurationBuilder;
@@ -18,9 +19,10 @@
                 .Build();
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
-            SampleClient.Run();
+            var manager = new SampleClientManager();
+            manager.Run();
         }
     }
 }

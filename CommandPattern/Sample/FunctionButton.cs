@@ -1,8 +1,9 @@
-﻿namespace CommandPattern.Sample
-{
-    using System;
-    using System.Reflection;
+﻿using DesignParttern.Shared;
+using System;
+using System.Reflection;
 
+namespace CommandPattern.Sample
+{
     class SystemExitHelper
     {
         public static void Exit()
@@ -50,16 +51,16 @@
         }
     }
 
-    class SampleClient
+    class SampleClient:ISampleClient
     {
-        public static void Run()
+        public void Run()
         {
             // 读取配置文件确定要调用的命令
             string commandName = "CommandPattern.Sample." + Program.Configuration["CommandName"] + "Command";
 
-            Assembly assembly = Assembly.GetExecutingAssembly();
-            Command command = assembly.CreateInstance(commandName) as Command;
-            FunctionButton btn = new FunctionButton() { Command = command };
+            var assembly = Assembly.GetExecutingAssembly();
+            var command = assembly.CreateInstance(commandName) as Command;
+            var btn = new FunctionButton() { Command = command };
             btn.Click();
 
             // 读取配置文件另一种方法
